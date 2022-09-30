@@ -1,0 +1,65 @@
+.reviewstyle{
+  max-width: 740px;
+}
+
+.arscrollHeight {
+    --ar-scroll-height: 520px;
+    color: aliceblue;
+  }
+
+  .parallax-style{
+    max-width: 582px;
+  }
+
+  
+
+  .mx-auto{
+    /* max-width: 61%;  */
+    padding: .3125rem;
+    margin-bottom: 9.9%; 
+    border-radius: calc(var(--ar-border-radius) * 2.125);
+  }
+
+  .position-absolute{
+    top: 4.4%; 
+    width: 85%;
+  }
+
+
+
+  .mxw-class{
+    max-width: 180px
+
+  }
+
+
+
+  .mxwp-class{
+    max-width: 1198px;
+  }
+
+
+  .mxwfs-class{
+    max-width: 475px;
+    }
+
+
+  .currentColor{
+  right: 60px; bottom: 62px;
+}
+
+
+
+.mxw-class-card-body{
+  max-width: 23rem;
+}
+
+
+.mxw-class-col{
+  min-width: 19rem;
+}
+
+
+.d-nonestyle{
+  background-color: rgba(255,255,255, .02);
+}
